@@ -1,3 +1,4 @@
+
 import { Car } from "../types/car";
 
 type Props = {
